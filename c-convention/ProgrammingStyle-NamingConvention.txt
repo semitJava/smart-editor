@@ -1,0 +1,9 @@
+Good naming can make a huge difference in program readability.
+1. Be clear and not ambiguous.
+2. Keep consistent.
+3. Naming conventions can be broken into three broad cateogries: c-style, camelCase and CamelCase.
+4. Use prefix or suffix if needed. Usally, g_ for global, s_ for static, p_ for point.
+5. Avoid abbreviations as possible. But use it if it's too long to read.
+
+
+
