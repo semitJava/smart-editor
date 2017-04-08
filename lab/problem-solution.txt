@@ -1,0 +1,6 @@
+1. problem: 
+   	stdio.h : No Such File or Directory.
+   solution:
+	sudo apt-get install build-essential.
+   reasons:
+	You don't have right develop environment.
